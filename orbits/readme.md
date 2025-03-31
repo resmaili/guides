@@ -1,2 +1,3 @@
-The file name is defined as "LECT_SATNAME.txt" for 20 satellites. 
-There are 15 columns in each files, the first 6 columns are UTC time (Mon, Day, Year, Hour, Minutes, Second), the seventh column is the equator crossing longitude and the last 6 columns are equator crossing local time (Mon, Day, Year, Hour, Minutes, Second).
+# Basic Pandas using Satellite Orbits
+
+Satellite datasets often come in complex binary formats, but text files are still really common! Pandas is really great for reading nicely-formatted text data. This tutorial will walk through the basic steps to read and reformat data and make a simple (and pretty!) plot. We'll learn a little bit about polar orbitting satellites too!
